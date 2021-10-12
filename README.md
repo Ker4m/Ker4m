@@ -1,7 +1,7 @@
 ### Hi there, I'm Marek - aka [Ker4m][website] 👋
 
 [![Website](https://img.shields.io/website?label=Ker4m.com&style=for-the-badge&url=https%3A%2F%2FKer4m.com)](https://melmayan.wordpress.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Ker4m?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKer4m&screen_name=Ker4m)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Ker4m?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/__Keram__)
 
 ## I'm a student at Ensimag - Grenoble INP in France 
 
@@ -39,11 +39,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [STACKr News Weekly: Quit Google 🚫, Authentication 🔐, Open Source 💪](https://www.youtube.com/watch?v=KxLgwLa8Aq8)
-- [Top VS Code Updates | v1.61 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=JHgbB0RW-50)
-- [Simple Next.js User Login Authentication | 5 Steps in 5 Minutes! | Auth0](https://www.youtube.com/watch?v=jgKRnhJBfpQ)
-- [STACKr News Weekly: Hacktoberfest 🐱‍💻, Web Scrapping 🔎, & MongoDB 💪](https://www.youtube.com/watch?v=T9JmMNEgpZE)
-- [Animations in Vue.js // Callum Macrae Vue.js Live Conference Interview](https://www.youtube.com/watch?v=O2gUILIIYxw)
+- [UwU](https://www.youtube.com/channel/UCh0SnmVJmOR8Ob1Zp62nGSg)
+
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...][youtube]
@@ -53,11 +50,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [OwO](https://melmayan.wordpress.com)
+
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][website]
